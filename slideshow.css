@@ -1,0 +1,60 @@
+.slidebox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 35vh;
+}
+
+.slides {
+    width: 80%;
+    height: 100%;
+    /* background-color: peru; */
+}
+
+.slide {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+}
+
+.meal1,
+.meal2,
+.meal3 {
+    height: 100%;
+    width: 31%;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.slide1 .meal1 {
+    background-image: url("vegan.webp");
+}
+
+.slide1 .meal2 {
+background-image: url("weekly_classic.webp");}
+
+.slide1 .meal3 {
+    background-image: url("Vegetarian.webp");
+}
+.slide2 .meal1 {
+    background-image: url("gourmet.webp");
+}
+
+.slide2 .meal2 {
+background-image: url("Chefschoice.webp");}
+
+.slide2 .meal3 {
+    background-image: url("quick_easy.webp");
+}
+.slide3 .meal1 {
+    background-image: url("family_friendly.webp");
+}
+
+.slide3 .meal2 {
+background-image: url("vegan.webp");}
+
+.slide3 .meal3 {
+    background-image: url("weekly_classic.webp");
+}

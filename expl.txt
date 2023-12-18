@@ -1,0 +1,44 @@
+huyo ni kama mnafanana sana
+
+kuna msee mwingine
+ehh wacha aniangia
+yeahhh iko sawa 
+kuna diff btwn detect faces na face detector?
+
+as in?
+like kwa hizo files naona kuna detect face.py then kuna face detctor.py
+
+ooh
+let me delete zingine ata hazitumiki
+zilikua =for testing tu
+ohh saswa
+
+
+we are only using those 3
+ya kwanza ni ya pale kwa face recognition
+ya pili ni time kuna vida
+alafu ya tatu ni time unaregidter ndio inangalie kama kuna uso kwa hio picha
+
+ohh nice
+
+retry the process from uploading a new picto doing face and video recognition
+
+note for video recognition only press launch camera mara moja alafu uipee like 5 seconds itafungua hio window ikona video
+
+sasawa alafu for video recognition haileti names of the recognized wala notification of unaothorized person
+
+ni juu ilikua slow ukasem nieke for testing purposes tu
+
+ohhh sasawa bro
+
+utanishow kitu atasema kesho ndio tujue kama tutaongeza b4 wednesday
+
+sasaawa bro thanks bro
+
+ok
+leaving
+pamoja bro
+safi
+
+
+
